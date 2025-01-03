@@ -1,0 +1,2 @@
+I have learnt how to navigate Github atleast the basics.
+I have also learnt diverse ways to create repositories, clone them, modify them, check their staus and push them.
